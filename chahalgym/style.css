@@ -177,3 +177,9 @@ header {
 .cp {
     padding-top : 13%;
 }
+
+@media only screen and (max-width: 600px) {
+ .second-text,  .first-text { 
+    font-size: 59px;
+    }
+}
